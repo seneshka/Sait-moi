@@ -1,0 +1,119 @@
+
+ body {text-align: center;
+  }
+#wrapper {width: 1152px;
+    margin: 0 auto;
+    text-align: left;
+  }
+#content {border: 0px chartreuse solid;
+    width: 1145.9px;
+    height: 587px;
+    float: right;
+}
+#content2 {border: 0px chartreuse solid;
+    width: 380px;
+    height: 587px;
+    float: left;
+}
+#head { border: 0px chartreuse solid;
+    background: #333333;
+    position: relative;
+  }
+#nav {border: 0px chartreuse solid;
+    width: 719px;
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center
+ }
+ #nav {padding-left: 20px;
+        padding-right: 20px;
+    
+  }
+ #footer {border: 0px chartreuse solid;
+    clear: both;
+  }
+  #content h1, h2, p {
+    padding-right: 20px;
+  }
+#text2 {padding-top: 197px;
+}
+h1 { font-size: 40px;
+
+}
+h2 { font-size: 30px;
+
+}
+h3 { font-size: 21px;
+}
+.text {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 47px;
+    color: #333333;}
+.hat {width: 1152px;
+    height: 88px;
+    margin-left: 100px;
+    left: 91px;
+    top: 0px;
+    position: absolute;
+    background: #333333;
+}.rainbow:hover {background: linear-gradient(to right, red, yellow, cyan, rgb(76, 0, 255));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;}
+.str {position: relative;
+    width: 1152px;
+    height: 300px;   
+    background: #FFFFFF;}
+a{ text-decoration: none;
+    color: #FFFFFF;
+ } 
+.img1{position: absolute;
+    text-align: center;
+    left: 670px;
+    top: 150px;
+width: 160px;
+height: 160px;
+}
+.img2{position: absolute;
+    left: 670px;
+    top: 149.99px;
+width: 160px;
+height: 160px;
+}
+.img2:hover {position: absolute;
+    left: 670px;
+    top: 149.99px;
+width: 160px;
+height: 160px;
+opacity:0;
+  filter:alpha (opacity=0);}
+.img22:hover {position: absolute;
+    left: 670px;
+    top: 150px;
+width: 160px;
+height: 160px;
+opacity:0;
+  filter:alpha (opacity=0);
+}
+.img11 {position: absolute;
+    text-align: center;
+    left: 295px;
+    top: 150px;
+width: 160px;
+height: 160px;
+}
+.img22 {position: absolute;
+    left: 295px;
+    top: 149.99px;
+width: 160px;
+height: 160px;
+}
+h2, h1, h3, h4 {text-align: center;
+    font-family: courier new;
+font-style: normal;
+font-weight: bold;
+line-height: 39px;
+}
